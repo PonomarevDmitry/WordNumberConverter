@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordNumberConverter", "WordNumberConverter\WordNumberConverter.csproj", "{030C1007-3ACE-4C0B-9978-74940B4674F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030C1007-3ACE-4C0B-9978-74940B4674F7}.Debug|x86.ActiveCfg = Debug|x86
+		{030C1007-3ACE-4C0B-9978-74940B4674F7}.Debug|x86.Build.0 = Debug|x86
+		{030C1007-3ACE-4C0B-9978-74940B4674F7}.Release|x86.ActiveCfg = Release|x86
+		{030C1007-3ACE-4C0B-9978-74940B4674F7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10745164-5767-41C1-A4E3-428D9A6A28BE}
+	EndGlobalSection
+EndGlobal
